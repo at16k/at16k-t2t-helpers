@@ -52,7 +52,7 @@ pyglet==1.5.0
 pypng==0.0.20
 pytz==2019.3
 requests==2.23.0
-rsa==4.0
+rsa==4.1
 scipy==1.4.1
 six==1.14.0
 sympy==1.5.1
